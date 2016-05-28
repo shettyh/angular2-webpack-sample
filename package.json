@@ -1,6 +1,11 @@
 {
-    "name": "MyAppWP",
+    "name": "angular-webpack-sample",
     "version": "1.0.0",
+    "description": "This is a simple example of how to use webpack in Angular 2",
+    "repository": {
+        "git":"https://github.com/manjunathshetty/angular2-wepack-sample.git"
+    },
+    "license": "ISC",
     "scripts": {
         "build": "webpack",
         "start": "tsc && webpack-dev-server",

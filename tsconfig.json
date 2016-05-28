@@ -1,4 +1,5 @@
 {
+    "comments":"Typescript Compiler options",
     "compilerOptions": {
         "target": "es5",
         "module": "commonjs",
